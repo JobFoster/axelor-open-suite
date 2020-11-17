@@ -9,7 +9,7 @@
 "<a class='fa fa-youtube' href='http://www.youtube.com' target='_blank' />","<a class='fa fa-youtube' href='http://www.youtube.com' target='_blank' />",,
 "<span class='label label-warning'>The selected date is in the past.</span>","<span class='label label-warning'>Выбранная дата уже в прошла.</span>",,
 "<span class='label label-warning'>There is already a lead with this name.</span>","<span class='label label-warning'>Лид с таким названием уже есть.</span>",,
-"<span style=""height:21px; line-height: 21px; margin-top:18px; display:inline-block"">VS</span>",<span style=""height:21px; line-height: 21px; margin-top:18px; display:inline-block"">ПРОТИВ</span>,,
+"<span style=""height:21px; line-height: 21px; margin-top:18px; display:inline-block"">VS</span>","<span style=""height:21px; line-height: 21px; margin-top:18px; display:inline-block"">ПРОТИВ</span>,,
 "A lost reason must be selected","Должна быть выбрана причина потери",,
 "Action","Действие",,
 "Activities","Мероприятия",,
